@@ -1,0 +1,6 @@
+1. foco nas bases, nos fundamentos sólidos
+2. didática
+3. humano, relacional
+
+.env
+NEXT_PUBLIC_API_URL=http://localhost:3005
